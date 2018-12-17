@@ -38,12 +38,3 @@ INSERT INTO bears
 VALUES
     (NULL, NULL, NULL, NULL, NULL, NULL);
 
-
-
--- Mr. Chocolate
--- Rowdy
--- Tabitha
--- Sergeant Brown
--- Melissa
--- Grinch
--- Wendy
